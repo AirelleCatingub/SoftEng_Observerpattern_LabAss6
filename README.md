@@ -2,6 +2,7 @@
 Real-time News Subscription Service
 
 ### Background
+<ul>
 You're tasked with designing a real-time news subscription service for a media company. The system needs to notify subscribers about breaking news as soon as it's published by the news agency.
 
 ### Scenario Description
